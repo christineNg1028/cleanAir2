@@ -19,14 +19,24 @@ The platform prompts users for personal data first– categorizing them accordin
 - To determine whether user falls within a sensitive group (children, seniors, people with health conditions) 
 - Thresholds that determine whether air quality is safe/moderate/unsafe are different (ex. If air is moderate for healthy adult, would be unsafe for sensitive person)
 
+![](https://github.com/christineNg1028/cleanAir2/blob/master/prompt1.jpg)![](https://github.com/christineNg1028/cleanAir2/blob/master/prompt1j.jpg)
+
+![](https://github.com/christineNg1028/cleanAir2/blob/master/prompt2.jpg)![](https://github.com/christineNg1028/cleanAir2/blob/master/prompt3.jpg)
+
+![](https://github.com/christineNg1028/cleanAir2/blob/master/prompt2and3j.jpg)
+
 2. Every hour (60s just demonstration purposes), program displays current hourly levels in their location
 
 - Lights beside each level indicating safe/moderate/unsafe
 - Average calculations
 - IoT equipment collects and stores real-time data in a database that the platform creates a data feed from to regularly update info
 
+![](https://github.com/christineNg1028/cleanAir2/blob/master/concentrations.jpg)![](https://github.com/christineNg1028/cleanAir2/blob/master/outputj.jpg)
+
 3. Safety Report
 
 - Overall safety level depends on all 3 gases, translates into a safety meter to help people make more informed decisions
 - If overall safety level is moderate/unsafe, the user is notified of potential health risks and informs them of protective measures they can take (ex. wear mask/stay indoors) based on the info they entered
 - Any detected pollution sources (ex. mobile, stationary, area, natural) are displayed to back up the numbers and encourage users to follow safety guidelines
+
+![](https://github.com/christineNg1028/cleanAir2/blob/master/safetyReport.jpg)
