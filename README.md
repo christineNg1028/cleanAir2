@@ -11,8 +11,6 @@ cleanAir2 is a web app that delivers specific recommendations tailored to the us
 
 The platform prompts users for personal data first– categorizing them accordingly by age, health and location, then immediately outputs personalized information. Gas concentrations of air pollution gases: carbon dioxide, sulfur dioxide, and nitrogen dioxide are displayed.
 
-**NOTE: The website is not fully functioning yet, as JavaScript code is required for the backend portion. Due to time constraints, the frontend portion featuring the UI was completed on Wix and a POC Java program was developed to demonstrate the functionality of the application.**
-
 ### How it Works
 1. Prompts user for their location, age and any health conditions
 
